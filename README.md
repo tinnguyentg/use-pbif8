@@ -1,0 +1,1 @@
+# [Sử dụng pre-commit, black, isort, flake8 cho python project](https://blog.tinnguyentg.codes/su-dung-precommit-black-isort-flake8)
